@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/mayke-stein" target="_blank">
+  <a href="www.linkedin.com/in/maykestein" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/mayke.stein?igsh=MTZpbjZ0bzVsM3Q2cg==" target="_blank">
